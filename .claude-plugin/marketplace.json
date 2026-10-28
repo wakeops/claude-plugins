@@ -1,0 +1,11 @@
+{
+  "name": "wakeops-plugins",
+  "owner": { "name": "Jess Wake" },
+  "plugins": [
+    {
+      "name": "dev-skills",
+      "source": "./plugins/dev-skills",
+      "description": "General-purpose developer skills"
+    }
+  ]
+}
